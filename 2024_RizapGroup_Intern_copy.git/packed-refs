@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+740180e86f95bb340a27e007628193c8545b88b3 refs/heads/isses/18
+f116a85649e733c5ed0c2050e6ce508cca0ad232 refs/heads/issues/1-命名規則を作ろう
+6346a5db10e215f8e7597f2fd321380d27f95cda refs/heads/issues/28
+e95a8b1df2521996adfd36dfa5e41439928a8217 refs/heads/issues/29
+abd482370ab440b6801b2fc7955e7fbfe31aa935 refs/heads/issues/3
+8a7ec43136309274e070ed7af0a8e77e54f3dd9d refs/heads/issues/35
+b109df58f26280311aa6144f3a4201c9ab8ff92f refs/heads/issues/36
+ae087b9d711f0b989b43cefe3b0dc28a3d7e93b1 refs/heads/issues/37
+ab2c50c72f16a0d4038cc9f3a1fbc8c0d29ef513 refs/heads/issues/39
+9a16bd0947f2d72622f6b71e78942377eb67857e refs/heads/issues/50
+1ab6e4a7a7cabebe8c3cc306e7ad4165cb022ac3 refs/heads/issues/67
+2b6f5dbe20aa25dfa2371ce8f255f5c9e1fd99d5 refs/heads/issues/9
+24cb8b90a035dbaf543b4b4b85321724187d588b refs/heads/main
